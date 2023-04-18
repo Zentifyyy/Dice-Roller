@@ -1,0 +1,18 @@
+C:\Users\alfie\source\repos\Dice Roller\bin\Debug\net7.0-windows\Dice Roller.exe
+C:\Users\alfie\source\repos\Dice Roller\bin\Debug\net7.0-windows\Dice Roller.deps.json
+C:\Users\alfie\source\repos\Dice Roller\bin\Debug\net7.0-windows\Dice Roller.runtimeconfig.json
+C:\Users\alfie\source\repos\Dice Roller\bin\Debug\net7.0-windows\Dice Roller.dll
+C:\Users\alfie\source\repos\Dice Roller\bin\Debug\net7.0-windows\Dice Roller.pdb
+C:\Users\alfie\source\repos\Dice Roller\obj\Debug\net7.0-windows\Dice Roller.csproj.AssemblyReference.cache
+C:\Users\alfie\source\repos\Dice Roller\obj\Debug\net7.0-windows\Dice_Roller.Form1.resources
+C:\Users\alfie\source\repos\Dice Roller\obj\Debug\net7.0-windows\Dice Roller.csproj.GenerateResource.cache
+C:\Users\alfie\source\repos\Dice Roller\obj\Debug\net7.0-windows\Dice Roller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfie\source\repos\Dice Roller\obj\Debug\net7.0-windows\Dice Roller.AssemblyInfoInputs.cache
+C:\Users\alfie\source\repos\Dice Roller\obj\Debug\net7.0-windows\Dice Roller.AssemblyInfo.cs
+C:\Users\alfie\source\repos\Dice Roller\obj\Debug\net7.0-windows\Dice Roller.csproj.CoreCompileInputs.cache
+C:\Users\alfie\source\repos\Dice Roller\obj\Debug\net7.0-windows\Dice Roller.dll
+C:\Users\alfie\source\repos\Dice Roller\obj\Debug\net7.0-windows\refint\Dice Roller.dll
+C:\Users\alfie\source\repos\Dice Roller\obj\Debug\net7.0-windows\Dice Roller.pdb
+C:\Users\alfie\source\repos\Dice Roller\obj\Debug\net7.0-windows\Dice Roller.genruntimeconfig.cache
+C:\Users\alfie\source\repos\Dice Roller\obj\Debug\net7.0-windows\ref\Dice Roller.dll
+C:\Users\alfie\source\repos\Dice Roller\obj\Debug\net7.0-windows\Dice_Roller.Properties.Resources.resources
